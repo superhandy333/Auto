@@ -6,6 +6,6 @@ class test
     { 
        i = 4711;
     }
-    // gute Wahl
+    // gute Wahl der Programmiersprache
 
 }
