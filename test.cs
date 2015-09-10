@@ -4,7 +4,8 @@ class test
  
     test()
     { 
-       i = 9911;
+       i = 4711;
     }
+    // gute Wahl
 
 }
