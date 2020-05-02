@@ -1,11 +1,12 @@
 class test
 {
     int i;
- 
-    test()
+    int j;
+  test()
     { 
        i = 4711;
-    }
-    // gute Wahl der Programmiersprache
+       j = 9;
+  }
+    // Eine wirklich gute Wahl der Programmiersprache
 
 }
