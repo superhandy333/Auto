@@ -3,7 +3,7 @@
     {
             public ClassNamePlaceholder()
 {
-    psuh("sarah connor");
+    push("Sarah Connor");
 }
 
     }
