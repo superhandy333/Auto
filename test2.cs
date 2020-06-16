@@ -1,6 +1,7 @@
 // Queen
-class konzert
+class Konzert
 {
     int Freddy;
+    int Bryan;
 
 }
