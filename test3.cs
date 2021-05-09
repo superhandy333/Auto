@@ -1,1 +1,4 @@
-Eine sehr geile Datei.
+void int getCount()
+{
+   return 12;
+}
