@@ -4,6 +4,7 @@
             public ClassNamePlaceholder()
 {
     push("Sarah Connor");
+    push("Mike Oldfield");
 }
 
     }
