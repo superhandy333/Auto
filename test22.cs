@@ -4,4 +4,5 @@ class Konzert
     int Freddy;
     int Bryan;
     int Vicky;
+    int Fabby;
 }
