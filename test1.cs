@@ -1,10 +1,11 @@
 //Sarah Connor
-public Konzert
+public class Konzert
 {
-    public ClassNamePlaceholder()
+    public void ClassNamePlaceholder()
     {
         push("Sarah Connor");
         push("Beatrice Egli");
+        push("Sarah Connor");
+        push("Mike Oldfield");
     }
-
 }
