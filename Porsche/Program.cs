@@ -6,7 +6,7 @@ namespace P
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hallo Silke Porsche.");
+            Console.WriteLine("Hallo Silke Rentsch.");
             System.Console.WriteLine(new Porsche().Farbe.ToString());
         }
     }
