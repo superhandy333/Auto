@@ -1,4 +1,4 @@
-void int getCount()
+int getCount()
 {
    return 12;
 }
