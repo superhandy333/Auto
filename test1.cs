@@ -1,11 +1,13 @@
-//Sarah Connor
-public class Konzert
+class Testo
 {
-    public void ClassNamePlaceholder()
+    public Konzert()
     {
-        push("Sarah Connor");
-        push("Beatrice Egli");
-        push("Sarah Connor");
-        push("Mike Oldfield");
     }
+    public Konzert()
+    {
+
+    }
+
+
+
 }
