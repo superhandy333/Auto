@@ -1,9 +1,13 @@
-//Sarah Connor
-    public Konzert
-    {
-            public ClassNamePlaceholder()
+class Testo
 {
-    push("Sarah Connor");
-}
+    public Konzert()
+    {
+    }
+    public Konzert()
+    {
 
     }
+
+
+
+}
