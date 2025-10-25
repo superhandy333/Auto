@@ -6,4 +6,5 @@ class Konzert
     int Phil;
     int Frank;
     int Vicky;
+    int Fabby;
 }
