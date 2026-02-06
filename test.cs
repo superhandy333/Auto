@@ -5,7 +5,7 @@ class test
   test()
     { 
        i = 4711;
-       j = 9;
+       j = 99;
   }
     // Eine wirklich gute Wahl der Programmiersprache oder nicht?
 
